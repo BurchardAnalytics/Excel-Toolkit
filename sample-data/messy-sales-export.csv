@@ -1,0 +1,14 @@
+Sample Supply Co. - Sales Export,,,,,,,
+Run date: 11/20/2026,,,,,,,
+,,,,,,,
+Invoice Date,Invoice #,Customer,Location,Item,Qty,Unit Price,Total
+01/05/2026,INV-1001,  Harbor Light Bakery ,"Springfield, MD",Flour 50 lb, 4 ,$32.50,$130.00
+2026-01-07,INV-1002,Maple Street   Hardware,"Riverton, DE",Shop towels,12,$4.25,$51.00
+"Jan 9, 2026",INV-1003,Bluegill Bait & Tackle,"Lakeside, VA",Ice chest, 1 ,"$1,249.99","$1,249.99"
+,,,,,,,
+01/12/2026, INV-1004 ,Harbor Light Bakery,"Springfield,MD",Sugar 25 lb,6,$18.00,$108.00
+Invoice Date,Invoice #,Customer,Location,Item,Qty,Unit Price,Total
+01/15/2026,INV-1005,Copper Kettle Diner,"Fairview, MD",Fryer oil,3,$41.00,$123.00
+01/16/2026,INV-1006,Maple Street Hardware,"Riverton, DE",Shop towels (return),(2),$4.25,($8.50)
+,,,,,,,
+TOTAL,,,,,,,"$1,653.49"
