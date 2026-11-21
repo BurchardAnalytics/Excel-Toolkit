@@ -11,7 +11,6 @@ Small business owners and managers who run on spreadsheets and don't have time t
 | Folder | What it holds |
 |---|---|
 | `power-query-recipes/` | Short Power Query recipes for the jobs that eat your week. Each one comes with a plain-English explanation. |
-| `sales-pace-tracker/` | A sales pacing workbook. Raw sales go in. A clear view of where you stand against goal comes out. |
 | `sample-data/` | Made-up files so you can test every tool before you touch your own data. |
 
 ### Power Query recipes
