@@ -17,6 +17,7 @@ Small business owners and managers who run on spreadsheets and don't have time t
 
 - **Clean a messy export:** trims spaces, fixes numbers and dates stored as text, drops blank and junk rows, and splits combined columns.
 - **Combine a folder of monthly files:** points Power Query at a folder, stacks the files into one table, and tags each row with its month.
+- **Overtime flag:** adds up each employee's hours by workweek, splits regular from overtime, and flags every week over 40.
 
 More will follow as they're built.
 
